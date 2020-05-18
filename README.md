@@ -9,8 +9,6 @@ The Github Repo is at: https://andrewjhrussell.github.io/TeamProfileGenerator1/
 
 https://github.com/Andrewjhrussell/TeamProfileGenerator1.git
 
-Deploy Heroku link
-The Heroku App is located at: https://frozen-hollows-18077.herokuapp.com/
 
 Title:
 Team Profile Generator
